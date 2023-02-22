@@ -1,0 +1,21 @@
+body {
+    background-image: url(feli/pexels-nappy-935985.jpg);
+    background-color:black;
+    background-position: center;
+    
+    
+    }
+    table th,td {
+            width: 25%; height: 200%;
+            border: 1px solid;
+            text-align: left;
+            margin: auto;
+            color: white;
+            padding: 6px;
+    }
+    table{
+    font-size: small;
+    font-weight: 100px;
+    border-collapse: collapse;
+    
+    }
